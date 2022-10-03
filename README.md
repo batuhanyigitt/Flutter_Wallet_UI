@@ -1,4 +1,4 @@
-# hello_world
+# Flutter Wallet App
 
 A new Flutter project created with https://flutlab.io
 
